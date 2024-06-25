@@ -14,5 +14,5 @@ This is a simple GUI application for tracking expenses using Python's Tkinter an
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
+   git clone https://github.com/bilallams/expense-tracker.git
 
